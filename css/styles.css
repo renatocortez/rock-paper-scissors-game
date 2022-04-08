@@ -103,7 +103,7 @@ header > h1 {
     box-shadow: 0 0 10px #d01115;
 }
 
-.gray-glow {
-    border: 4px solid #464647;
-    box-shadow: 0 0 10px #25292b;
+.yellow-glow {
+    border: 4px solid #fffc57;
+    box-shadow: 0 0 10px #d1d404;
 }
